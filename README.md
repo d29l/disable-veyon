@@ -8,8 +8,8 @@ Disables VeyonService to stop you from being spied on in class :trol:
 
 -To disable Veyon, run:
 
-	 .\disable-veyon.ps1
+	.\disable-veyon.ps1
 
 -To enable Veyon, run:
 
-	 .\start-veyon.ps1
+	.\start-veyon.ps1
