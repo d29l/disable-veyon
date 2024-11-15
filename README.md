@@ -1,3 +1,15 @@
-Disables Veyon so you can't be spied on in class :trol:
+# Disable Veyon
+Disables VeyonService to stop you from being spied on in class :trol:
 
-Run scripts in admin
+(you need admin access)
+
+## Usage
+-Run PowerShell as administrator
+
+-To disable Veyon, run:
+
+	 .\disable-veyon.ps1
+
+-To enable Veyon, run:
+
+	 .\start-veyon.ps1
