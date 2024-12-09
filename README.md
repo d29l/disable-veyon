@@ -1,5 +1,5 @@
 # Disable Veyon
-Disables VeyonService to stop you from being spied on in class :trol:
+Disables VeyonService to stop you from being spied on in class
 
 (you need admin access)
 
